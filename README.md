@@ -20,4 +20,4 @@ Nguyễn Hồng Thái - 21520445
 Nguyễn Duy Hưng - 21520894
 
 #### 1. Mô tả bài toán  
-Đề tài nhận dạng các ký tự trên biển số xe máy từ các hình ảnh chụp hoặc video.
+Đề tài nhận dạng các ký tự trên biển số xe máy từ các hình ảnh chụp.
